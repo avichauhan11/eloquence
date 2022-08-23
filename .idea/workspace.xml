@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="274ecd6d-aa79-4898-b351-cc33a33c1c68" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Contracts/Eloquence.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Contracts/Mappable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Contracts/Metable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Contracts/Pipeline.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Mappable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Mappable/Hooks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Metable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Metable/Attribute.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Metable/AttributeBag.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Metable/CreateMetaAttributesTable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Metable/Hooks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Metable/InvalidMutatorException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Metable/InvalidTypeException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Model.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Mutable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Mutable/Hooks.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Mutator/InvalidCallableException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Mutator/Mutator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Validable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Validable/Observer.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Builder.php" afterPath="$PROJECT_DIR$/src/Builder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Contracts/Attribute.php" afterPath="$PROJECT_DIR$/src/Contracts/Attribute.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Contracts/AttributeBag.php" afterPath="$PROJECT_DIR$/src/Contracts/AttributeBag.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Eloquence.php" afterPath="$PROJECT_DIR$/src/Eloquence.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Query/Builder.php" afterPath="$PROJECT_DIR$/src/Query/Builder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Relations/Joiner.php" afterPath="$PROJECT_DIR$/src/Relations/Joiner.php" />
-    </list>
+    <list default="true" id="274ecd6d-aa79-4898-b351-cc33a33c1c68" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -150,15 +121,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661272666414</updated>
-      <workItem from="1661272667492" duration="941000" />
+      <workItem from="1661272667492" duration="993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="941000" />
+    <option name="totallyTimeSpent" value="993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="27" width="1878" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
